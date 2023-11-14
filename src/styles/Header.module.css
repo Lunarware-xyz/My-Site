@@ -1,0 +1,22 @@
+.Header {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background: #323;
+    box-shadow: 0 1rem 16px #646;
+}
+
+.Button {
+    text-decoration: none;
+    color: #eee;
+    padding: 20px 20px;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.Button:hover {
+    background-color: #646;
+
+}
+
